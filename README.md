@@ -37,4 +37,6 @@ You can do this in any order you like, but some of the best places to start incl
 2. Adjusting margin & padding for the cards.
 3. Adjust typography.
 
-Then move on to some of the smaller, subtler details. Pay close attention to the mockups. 
+Then move on to some of the smaller, subtler details. Pay close attention to the mockups.
+
+Solutions Branch
