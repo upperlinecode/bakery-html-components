@@ -37,4 +37,14 @@ You can do this in any order you like, but some of the best places to start incl
 2. Adjusting margin & padding for the cards.
 3. Adjust typography.
 
-Then move on to some of the smaller, subtler details. Pay close attention to the mockups. 
+Then move on to some of the smaller, subtler details. Pay close attention to the mockups.
+
+## Step 3: Fix the Fifth Bread
+
+Uh oh! Looks like the developer messed up the last bread and didn't follow the conventions of the component when building it, so the css rules don't quite seem to apply.
+
+Let's fix this component.
+
+## Step 4: Add a Sixth Bread
+
+Now that you've fixed the bakery, it's time to add a bread of your own. Have fun!
