@@ -7,13 +7,13 @@ You're going to build a website for a bakery where the website is made up of two
 
 Here's what the site will look like when it's done:
 
-![preview](mockups/bread.gif)
+![preview](https://github.com/upperlinecode/bakery-html-components/blob/master/mockups/bread.gif?raw=true)
 
 ## Step 1: Make the Title
 
 Add some style to the container dive and title component to make it look like this:
 
-![Header](mockups/title.png)
+![Header](https://github.com/upperlinecode/bakery-html-components/blob/master/mockups/breadcard.png?raw=true)
 
 You can do this in any order you like, but a recommended order might be:
 
@@ -29,7 +29,7 @@ You can do this in any order you like, but a recommended order might be:
 
 Add some style to the container dive and title component to make it look like this:
 
-![Cards](mockups/breadcard.png)
+![Cards](https://github.com/upperlinecode/bakery-html-components/blob/master/mockups/title.png?raw=true)
 
 You can do this in any order you like, but some of the best places to start include:
 
