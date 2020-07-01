@@ -13,7 +13,7 @@ Here's what the site will look like when it's done:
 
 Add some style to the container dive and title component to make it look like this:
 
-![Header](https://github.com/upperlinecode/bakery-html-components/blob/master/mockups/breadcard.png?raw=true)
+![Header](https://github.com/upperlinecode/bakery-html-components/blob/master/mockups/title.png?raw=true)
 
 You can do this in any order you like, but a recommended order might be:
 
@@ -29,7 +29,7 @@ You can do this in any order you like, but a recommended order might be:
 
 Add some style to the container dive and title component to make it look like this:
 
-![Cards](https://github.com/upperlinecode/bakery-html-components/blob/master/mockups/title.png?raw=true)
+![Cards](https://github.com/upperlinecode/bakery-html-components/blob/master/mockups/breadcard.png?raw=true)
 
 You can do this in any order you like, but some of the best places to start include:
 
