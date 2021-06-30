@@ -1,5 +1,7 @@
 # The Component Bakery
 
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/bakery-html-components)](https://repl.it/github/upperlinecode/bakery-html-components)
+
 You're going to build a website for a bakery where the website is made up of two major components:
 
 1. A Title
@@ -7,13 +9,13 @@ You're going to build a website for a bakery where the website is made up of two
 
 Here's what the site will look like when it's done:
 
-![preview](https://github.com/upperlinecode/bakery-html-components/blob/master/mockups/bread.gif?raw=true)
+![preview](https://raw.githubusercontent.com/upperlinecode/bakery-html-components/main/mockups/bread.gif)
 
 ## Step 1: Make the Title
 
 Add some style to the container dive and title component to make it look like this:
 
-![Header](https://github.com/upperlinecode/bakery-html-components/blob/master/mockups/title.png?raw=true)
+![Header](https://raw.githubusercontent.com/upperlinecode/bakery-html-components/main/mockups/title.png)
 
 You can do this in any order you like, but a recommended order might be:
 
@@ -29,7 +31,7 @@ You can do this in any order you like, but a recommended order might be:
 
 Add some style to the container dive and title component to make it look like this:
 
-![Cards](https://github.com/upperlinecode/bakery-html-components/blob/master/mockups/breadcard.png?raw=true)
+![Cards](https://raw.githubusercontent.com/upperlinecode/bakery-html-components/main/mockups/breadcard.png)
 
 You can do this in any order you like, but some of the best places to start include:
 
