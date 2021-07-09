@@ -13,7 +13,7 @@ Here's what the site will look like when it's done:
 
 ## Step 1: Make the Title
 
-Add some style to the container dive and title component to make it look like this:
+Add some style to the container div and title component to make it look like this:
 
 ![Header](https://raw.githubusercontent.com/upperlinecode/bakery-html-components/main/mockups/title.png)
 
@@ -29,7 +29,7 @@ You can do this in any order you like, but a recommended order might be:
 
 ## Step 2: Make the Cards
 
-Add some style to the container dive and title component to make it look like this:
+Add some style to the container div and title component to make it look like this:
 
 ![Cards](https://raw.githubusercontent.com/upperlinecode/bakery-html-components/main/mockups/breadcard.png)
 
